@@ -33,7 +33,7 @@ pydocstyle==6.3.0
 pyflakes==2.5.0
 Pygments==2.14.0
 pylama==7.7.1
-pylint==2.13.9
+pylint==4.0.9
 six==1.16.0
 snowballstemmer==2.2.0
 SQLAlchemy==1.4.0
